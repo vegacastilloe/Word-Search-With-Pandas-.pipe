@@ -1,7 +1,7 @@
 # 🧠 Word Search con Pandas .pipe()
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![Last Updated](https://img.shields.io/github/last-commit/vegacastilloe/Customers-Table-With-Total-for-Each-Month)
+![Last Updated](https://img.shields.io/github/last-commit/vegacastilloe/Word-Search-With-Pandas-.pipe)
 ![Language](https://img.shields.io/badge/language-español-darkred)
 
 #
